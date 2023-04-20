@@ -1,0 +1,8 @@
+<site-list version="5"> 
+<shared-cookie domain="qvteam.eu.qlik-stage.com" name="qlik-stage" source-engine="Both"></shared-cookie>
+<shared-cookie domain=".qvteam.eu.qlik-stage.com" name="qlik-stage" source-engine="Both"></shared-cookie>
+<shared-cookie domain=".qlik-stage.com" name="qlik-stage" source-engine="Both"></shared-cookie>
+<shared-cookie domain="qlik.okta.com" name="sso-okta" source-engine="Both"></shared-cookie>
+<shared-cookie host="qvteam.eu.qlik-stage.com" name="qvteam-eu-stage" source-engine="Both"></shared-cookie>
+<shared-cookie host="qlik.okta.com" name="sso" source-engine="Both"></shared-cookie>
+</site-list> 
